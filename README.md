@@ -1,7 +1,7 @@
-# EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
-# Aim:
+## EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
+## Aim:
     To implement the first come first serve scheduling algorithm
-# Algorithm:
+## Algorithm:
     1. Start the process
     2. Get the number of processes to be inserted
     3. Get the value for burst time of each process from the user
@@ -16,7 +16,7 @@
     9. Display the values
     10. Stop the process
 # Program:
-~~~
+```
 #include<stdio.h>
 int main()
 {
@@ -54,5 +54,8 @@ int main()
     printf("\n\nAverage Waiting Time=%f",avg_wt);
     printf("\nAverage Turnaround Time=%f\n",avg_tat);
 }
-~~~
-# 
+```
+## Output:
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-09-22%2014-28-59.png
+## Result:
+Thus, the first come first serve scheduling algorithm is implemented successfully.
