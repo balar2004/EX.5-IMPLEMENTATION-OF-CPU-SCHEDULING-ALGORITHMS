@@ -213,7 +213,7 @@ int main()
 ## Result:
 Thus, priority scheduling algorithm is implemented successfully.
 
-## 5D-IMPLEMENTATION OF ROUND-ROBIN SCHEDULING
+## 5D-IMPLEMENTATION OF ROUND-ROBIN SCHEDULING.
 ## Aim:
 To implement round robin scheduling algorithm
 ## Algorithm:
