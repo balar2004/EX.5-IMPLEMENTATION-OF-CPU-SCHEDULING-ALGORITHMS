@@ -1,20 +1,19 @@
 ## EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
 ## Aim:
-    To implement the first come first serve scheduling algorithm
+To implement the first come first serve scheduling algorithm
 ## Algorithm:
-    1. Start the process
-    2. Get the number of processes to be inserted
-    3. Get the value for burst time of each process from the user
-    4. Having allocated the burst time(bt) for individual processes , Start with the first
-    process from its initial position let other process to be in queue
-    5. Calculate the waiting time(wt) and turnaround time(tat) as
-    6. Wt(pi) = wt(pi-1) + tat(pi-1) (i.e. wt of current process = wt of previous process + tat of
-    previous process)
-    7. tat(pi) = wt(pi) + bt(pi) (i.e. tat of current process = wt of current process + bt of
-    current process)
-    8. Calculate the total and average waiting time and turnaround time
-    9. Display the values
-    10. Stop the process
+1. Start the process
+2. Get the number of processes to be inserted
+3. Get the value for burst time of each process from the user
+4. Having allocated the burst time(bt) for individual processes , Start with the first
+process from its initial position let other process to be in queue
+5. Calculate the waiting time(wt) and turnaround time(tat) as
+6. Wt(pi) = wt(pi-1) + tat(pi-1) (i.e. wt of current process = wt of previous process + tat of
+previous process)
+7. tat(pi) = wt(pi) + bt(pi) (i.e. tat of current process = wt of current process + bt of
+current process)
+8. Calculate the total and average waiting time and turnaround time
+9. Display the values
 # Program:
 ```
 #include<stdio.h>
@@ -56,6 +55,6 @@ int main()
 }
 ```
 ## Output:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-09-22%2014-28-59.png
+
 ## Result:
 Thus, the first come first serve scheduling algorithm is implemented successfully.
