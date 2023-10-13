@@ -1,5 +1,5 @@
 ## EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS
-## 5A-IMPLEMENTATION OF FIRST COME FIRST SERVE SCHEDULING.
+## 1-IMPLEMENTATION OF FIRST COME FIRST SERVE SCHEDULING.
 ## Aim:
 To implement the first come first serve scheduling algorithm
 ## Algorithm:
@@ -56,11 +56,11 @@ int main()
 }
 ```
 ## Output:
-
+![cpu](https://github.com/balar2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118791778/d4e5257a-ab9b-463b-b13d-81313e1ab61f)
 ## Result:
 Thus, the first come first serve scheduling algorithm is implemented successfully.
 
-## 5B-IMPLEMENTATION OF SHORTEST JOB FIRST SCHEDULING.
+## 2-IMPLEMENTATION OF SHORTEST JOB FIRST SCHEDULING.
 ## Aim:
 To implement the Shortest Job First scheduling algorithm
 ## Algorithm :
@@ -127,11 +127,11 @@ int main()
 }
 ```
 ## Output:
-
+![cpu2](https://github.com/balar2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118791778/385ad97c-d5e3-48ec-bced-812dd2dbcee2)
 ## Result:
 Thus, the Shortest Job First scheduling algorithm is implemented successfully.
 
-## 5C-IMPLEMENTATION OF PRIORITY SCHEDULING.
+## 3-IMPLEMENTATION OF PRIORITY SCHEDULING.
 ## Aim:
 To implement priority scheduling algorithm
 ## Algorithm:
@@ -209,11 +209,11 @@ int main()
 }
 ```
 ## Output:
-
+![cpu3](https://github.com/balar2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118791778/e2ef803b-38ad-479f-bb1b-918ee4a3a708)
 ## Result:
 Thus, priority scheduling algorithm is implemented successfully.
 
-## 5D-IMPLEMENTATION OF ROUND-ROBIN SCHEDULING.
+## 4-IMPLEMENTATION OF ROUND-ROBIN SCHEDULING.
 ## Aim:
 To implement round robin scheduling algorithm
 ## Algorithm:
@@ -287,6 +287,6 @@ int main()
 }
 ```
 ## Output:
-
+![cpu4](https://github.com/balar2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118791778/972d4d45-377f-4056-8647-e6e343606685)
 ## Result:
 Thus, round robin scheduling algorithm implemented successfully.
